@@ -1,2 +1,2 @@
 # selenium-course
-Selenium WebDriver Course
+Selenium WebDriver 3.0 Course
