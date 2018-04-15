@@ -22,7 +22,7 @@ public class EighthTest {
     }
 
     @Test
-    public void mySeventhTest() throws Exception {
+    public void myEighthTest() throws Exception {
         driver.get("http://localhost/litecart");
         List<WebElement> productList = driver.findElements(By.cssSelector("li.product"));
         for (WebElement foundProduct : productList) {
